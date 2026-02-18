@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DevOps CI/CD</title>
+    <style>
+        body {
+            background-color: black;
+            color: lime;
+            text-align: center;
+            font-size: 40px;
+            margin-top: 100px;
+        }
+    </style>
+</head>
+<body>
+    DevOps CI/CD Project Running 🚀
+</body>
+</html>!DOCTYPE html>
+<html>
+<head>
+    <title>DevOps CI/CD</title>
+</head>
+<body>
+    <h1>DevOps CI/CD Project Running 🚀</h1>
+</body>
+</html>
